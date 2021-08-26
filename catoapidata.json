@@ -25,6 +25,19 @@
     "telegram":"https://t.me/SolanaCATO",
     "circulating_supply":"2868200000"
   },
+  {
+    "token_name":"SOL",
+    "token_pair":"SOL/USDC",
+    "token_description":"",
+    "market_address":"",
+    "token_address":"",
+    "token_logo":"",
+    "wesbite":"",
+    "twitter":"",
+    "discord":"",
+    "telegram":"",
+    "circulating_supply":""
+  },
    {
     "token_name":"CHEEMS",
     "token_pair":"CHEEMS/USDC",
