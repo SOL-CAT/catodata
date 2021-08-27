@@ -26,17 +26,17 @@
     "circulating_supply":"2868200000"
   },
   {
-    "token_name":"SOL",
+    "token_name":"Wrapped SOL",
     "token_pair":"SOL/USDC",
-    "token_description":"",
-    "market_address":"",
-    "token_address":"",
+    "token_description":"Solana <3",
+    "market_address":"9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+    "token_address":"So11111111111111111111111111111111111111112",
     "token_logo":"",
-    "wesbite":"",
-    "twitter":"",
-    "discord":"",
-    "telegram":"",
-    "circulating_supply":""
+    "wesbite":"https://solana.com/",
+    "twitter":"https://twitter.com/solana",
+    "discord":"https://t.me/solana",
+    "telegram":"https://t.me/solana",
+    "circulating_supply":"292433288"
   },
    {
     "token_name":"CHEEMS",
@@ -634,8 +634,19 @@
     "discord":"https://discord.com/invite/CropperFinance",
     "telegram":"https://t.me/CropperFinance",
     "circulating_supply":"65105457"
+  },
+  {
+    "token_name":"Solrise Finance",
+    "token_pair":"SLRS/USDC",
+    "token_description":"Decentralized, trust-minimized investment funds",
+    "market_address":"2Gx3UfV831BAh8uQv1FKSPKS9yajfeeD8GJ4ZNb2o2YP",
+    "token_address":"SLRSSpSLUTP7okbCUBYStWCo1vUgyt775faPqz8HUMr",
+    "token_logo":"",
+    "wesbite":"https://solrise.finance/",
+    "twitter":"https://twitter.com/SolriseFinance",
+    "discord":"https://discord.com/invite/xNbGgMUJfU",
+    "telegram":"https://t.me/solrisefinance",
+    "circulating_supply":""
   }
-   
-
   
 ]
