@@ -1,5 +1,6 @@
 {
-  "tokens": [
+  "tokens": 
+  [
     {
       "tokenName": "SOL",
       "marketAddress": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
@@ -810,10 +811,10 @@
     {
       "tokenName": "RAYPOOL",
       "marketAddress": "3V2sfA9rCnBwjfqGca2UDxD4fVvPXW9GNAQCqAepKC9Q",
-      "decimals": ,
+      "decimals": 6,
       "tokenMint": "93a1L7xaEV7vZGzNXCcb9ztZedbpKgUiTHYxmFKJwKvc",
-      "supply": ,
-      "fixedsupply": ""
+      "supply": 0,
+      "fixedsupply": "no"
     },
     {
       "tokenName": "LQID",
