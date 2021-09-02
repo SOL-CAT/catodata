@@ -686,6 +686,19 @@
     "discord":"",
     "telegram":"",
     "circulating_supply":""
+  },
+  {
+    "token_name":"SRM",
+    "token_pair":"SRM/USDC",
+    "token_description":"Serum",
+    "market_address":"ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA",
+    "token_address":"SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+    "token_logo":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png",
+    "wesbite":"",
+    "twitter":"",
+    "discord":"",
+    "telegram":"",
+    "circulating_supply":""
   }
   
 ]
