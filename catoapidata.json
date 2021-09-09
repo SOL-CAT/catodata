@@ -699,6 +699,19 @@
     "discord":"",
     "telegram":"",
     "circulating_supply":""
+  },
+  {
+    "token_name":"SUNNY",
+    "token_pair":"SUNNY/USDC",
+    "token_description":"Cross-chain DeFi Yield Aggregator",
+    "market_address":"Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+    "token_address":"SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+    "token_logo":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+    "wesbite":"https://sunny.ag",
+    "twitter":"https://twitter.com/SunnyAggregator",
+    "discord":"https://discord.com/invite/dvXuvN9KeP",
+    "telegram":"https://discord.com/invite/dvXuvN9KeP",
+    "circulating_supply":"250000000"
   }
   
 ]
