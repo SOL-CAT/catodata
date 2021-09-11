@@ -11,7 +11,7 @@
     "discord":"https://discord.com/invite/ZrdHfMWg2w",
     "telegram":"https://t.me/tunnelgram",
     "circulating_supply":"137500000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/7MmPwD1K56DthW14P1PnWZ4zPCbPWemGs3YggcT1KzsM"
   },
    {
     "token_name":"CATO",
@@ -25,7 +25,7 @@
     "discord":"https://discord.com/invite/7yUx6jXZtS",
     "telegram":"https://t.me/SolanaCATO",
     "circulating_supply":"168200000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB"
   },
   {
     "token_name":"Wrapped SOL",
@@ -39,22 +39,9 @@
     "discord":"https://t.me/solana",
     "telegram":"https://t.me/solana",
     "circulating_supply":"292433288",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT"
   },
-  {
-    "token_name":"SOL",
-    "token_pair":"SOL/USDC",
-    "token_description":"Solana <3",
-    "market_address":"9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
-    "token_address":"11111111111111111111111111111111",
-    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/SOL.png",
-    "wesbite":"https://solana.com/",
-    "twitter":"https://twitter.com/solana",
-    "discord":"https://t.me/solana",
-    "telegram":"https://t.me/solana",
-    "circulating_supply":"292433288",
-    "tradenow":"https://catodex.com"
-  },
+
    {
     "token_name":"CHEEMS",
     "token_pair":"CHEEMS/USDC",
@@ -67,7 +54,7 @@
     "discord":"https://discord.com/invite/zmxvx3JQfr",
     "telegram":"https://t.me/CheemsOfficial",
     "circulating_supply":"2449645457",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut"
   },
    {
     "token_name":"COPE",
@@ -81,7 +68,7 @@
     "discord":"https://discord.com/invite/CfF3Grba6r",
     "telegram":"https://twitter.com/unlimitedcope",
     "circulating_supply":"19303135",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/6fc7v3PmjZG9Lk2XTot6BywGyYLkBQuzuFKd4FpCsPxk"
   },
   {
     "token_name":"CREAM",
@@ -95,21 +82,7 @@
     "discord":"https://discord.gg/8Ms25mV",
     "telegram":"https://t.me/creamfinance",
     "circulating_supply":"765390",
-    "tradenow":"https://catodex.com"
-  },
-  {
-    "token_name":"DGEN",
-    "token_pair":"DGEN/USDC",
-    "token_description":"Leveraged memeing on the Solana blockchain.",
-    "market_address":"7MtgLYSEgsq626pvcEAwaDqs2KiZsaJUX2qGpRZbcDWY",
-    "token_address":"J8K4k3wPtpeimFxzQ3fLAe963Sy8rH33H7XB6pTa6D22",
-    "token_logo":"",
-    "wesbite":"https://degen.finance/",
-    "twitter":"https://twitter.com/degenbanana",
-    "discord":"https://discord.com/invite/z2pMNqTq",
-    "telegram":"https://t.me/DegenBanana101",
-    "circulating_supply":"103425538",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/7nZP6feE94eAz9jmfakNJWPwEKaeezuKKC5D1vrnqyo2"
   },
   {
     "token_name":"FAB",
@@ -123,7 +96,7 @@
     "discord":"https://discord.com/invite/RBxJrKd3X6",
     "telegram":"https://twitter.com/official_fabric",
     "circulating_supply":"204859993",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt"
   },
   {
     "token_name":"Bonfida",
@@ -137,21 +110,7 @@
     "discord":"https://t.me/bonfidatg",
     "telegram":"https://t.me/bonfidatg",
     "circulating_supply":"49096385",
-    "tradenow":"https://catodex.com"
-  },
-  {
-    "token_name":"Frenchie",
-    "token_pair":"FRENCH/USDC",
-    "token_description":"Cute pups",
-    "market_address":"6FRXwGCpCbbyMroJzjL8ECF5evaWFPhuAZWibWUpnu8x",
-    "token_address":"A3ZXZRSkzZ7j59LLF1GXGH8MkekWXg7DiimEJZSjBZER",
-    "token_logo":"",
-    "wesbite":"https://twitter.com/CoinFrenchie",
-    "twitter":"https://twitter.com/CoinFrenchie",
-    "discord":"https://discord.com/invite/3z3WhtDMqH",
-    "telegram":"https://twitter.com/CoinFrenchie",
-    "circulating_supply":"266203940",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/E14BKBhDWD4EuTkWj1ooZezesGxMW8LPCps4W5PuzZJo"
   },
   {
     "token_name":"Frontier",
@@ -165,7 +124,7 @@
     "discord":"https://t.me/FrontierDotXYZ",
     "telegram":"https://t.me/FrontierDotXYZ",
     "circulating_supply":"45785123",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/9Zx1CvxSVdroKMMWf2z8RwrnrLiQZ9VkQ7Ex3syQqdSH"
   },
   {
     "token_name":"FUTURE",
@@ -179,7 +138,7 @@
     "discord":"https://discord.com/invite/RdWZsebQfX",
     "telegram":"https://t.me/joinchat/5R6McB2bKcA0MTBk",
     "circulating_supply":"226006",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/4JP75nztBEo5rYhW1LTQyc4qfjPB33jMWEUvp2DGrQQR"
   },
   {
     "token_name":"Wrapped FTT",
@@ -193,7 +152,7 @@
     "discord":"https://twitter.com/FTX_Official",
     "telegram":"https://twitter.com/FTX_Official",
     "circulating_supply":"108888888",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/2Pbh1CvRVku1TgewMfycemghf6sU9EyuFDcNXqvRmSxc"
   },
   {
     "token_name":"Wrapped Hedget",
@@ -207,7 +166,7 @@
     "discord":"https://twitter.com/Team_Hedget",
     "telegram":"https://twitter.com/Team_Hedget",
     "circulating_supply":"1745635",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/88vztw7RTN6yJQchVvxrs6oXUDryvpv9iJaFa1EEmg87"
   },
   {
     "token_name":"Wrapped Helium",
@@ -221,7 +180,7 @@
     "discord":"https://twitter.com/helium",
     "telegram":"https://twitter.com/helium",
     "circulating_supply":"95328884",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/CnUV42ZykoKUnMDdyefv5kP6nDSJf7jFd7WXAecC6LYr"
   },
   {
     "token_name":"Wrapped HXRO",
@@ -235,7 +194,7 @@
     "discord":"https://twitter.com/RealHxro",
     "telegram":"https://twitter.com/RealHxro",
     "circulating_supply":"267924528",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/6Pn1cSiRos3qhBf54uBP9ZQg8x3JTardm1dL3n4p29tA"
   },
   {
     "token_name":"Wrapped KEEP",
@@ -249,7 +208,7 @@
     "discord":"https://discord.com/invite/wYezN7v",
     "telegram":"https://t.me/KeepNetworkOfficial/",
     "circulating_supply":"267924528",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/3rgacody9SvM88QR83GHaNdEEx4Fe2V2ed5GJp2oeKDr"
   },
   {
     "token_name":"KEKW",
@@ -263,7 +222,7 @@
     "discord":"https://discord.com/invite/KmsyaXmSdN",
     "telegram":"https://t.me/kekwcoinofficial",
     "circulating_supply":"11199999999",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#market/N99ngemA29qSKqdDW7kRiZHS7h2wEFpdgRvgE3N2jy6"
   },
   {
     "token_name":"KIN",
@@ -277,7 +236,7 @@
     "discord":"https://discord.com/invite/S7HawfuDh2",
     "telegram":"https://discord.com/invite/S7HawfuDh2",
     "circulating_supply":"168750000000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/Bn6NPyr6UzrFAwC4WmvPvDr2Vm8XSUnFykM2aQroedgn"
   },
   {
     "token_name":"Chainlink",
@@ -291,7 +250,7 @@
     "discord":"https://discord.com/invite/aSK4zew",
     "telegram":"https://t.me/chainlinkofficial",
     "circulating_supply":"446816923",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/3hwH1txjJVS8qv588tWrjHfRxdqNjBykM1kMcit484up"
   },
   {
     "token_name":"Wrapped LUA",
@@ -305,7 +264,7 @@
     "discord":"https://app.luaswap.org/#/swap",
     "telegram":"https://app.luaswap.org/#/swap",
     "circulating_supply":"112857142",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/4xyWjQ74Eifq17vbue5Ut9xfFNfuVB116tZLEpiZuAn8"
   },
   {
     "token_name":"MAPS",
@@ -319,7 +278,7 @@
     "discord":"https://twitter.com/maps_me/",
     "telegram":"https://www.instagram.com/maps.me/",
     "circulating_supply":"74657534",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/3A8XQRWXC7BjLpgLDDBhQJLT5yPCzS16cGYRKHkKxvYo"
   },
   {
     "token_name":"Wrapped MATH",
@@ -333,7 +292,7 @@
     "discord":"https://mathwallet.org/",
     "telegram":"https://t.me/mathwalletnews",
     "circulating_supply":"140359712",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/J7cPYBrXVy8Qeki2crZkZavcojf2sMRyQU7nx438Mf8t"
   },
   {
     "token_name":"SolMiner Bronze",
@@ -347,7 +306,7 @@
     "discord":"https://solminer.app/",
     "telegram":"https://solminer.app/",
     "circulating_supply":"110093421",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/Biff7oLeDU4mowrzxUD8KMPMGutHB14RCH3vq9mStKAy"
   },
   {
     "token_name":"Mercurial",
@@ -361,7 +320,7 @@
     "discord":"https://discord.com/invite/WwFwsVtvpH",
     "telegram":"https://discord.com/invite/WwFwsVtvpH",
     "circulating_supply":"55200000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/Biff7oLeDU4mowrzxUD8KMPMGutHB14RCH3vq9mStKAy"
   },
   {
     "token_name":"Ninja Protocol",
@@ -375,7 +334,7 @@
     "discord":"https://discord.com/invite/ninjaprotocol",
     "telegram":"https://t.me/joinchat/MnkJiunmN0IzOGQ0",
     "circulating_supply":"13200000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/J4oPt5Q3FYxrznkXLkbosAWrJ4rZLqJpGqz7vZUL4eMM"
   },
   {
     "token_name":"xNope",
@@ -389,7 +348,7 @@
     "discord":"discord.gg/solend",
     "telegram":"discord.gg/solend",
     "circulating_supply":"34615038",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/GGkhBT3zWrkGsrSCYW8pF2hYfBSYfzvcJd1PH844ULMV"
   },
   {
     "token_name":"Oxygen Protocol",
@@ -403,7 +362,7 @@
     "discord":"https://discord.com/invite/hbKAb2TAvc",
     "telegram":"https://t.me/oxygen_protocol",
     "circulating_supply":"203018867",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/GZ3WBFsqntmERPwumFEYgrX2B7J7G11MzNZAy7Hje27X"
   },
   {
     "token_name":"Raydium",
@@ -417,7 +376,7 @@
     "discord":"https://discord.com/invite/6EvFwvCfpx",
     "telegram":"https://t.me/raydiumprotocol",
     "circulating_supply":"60943661",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/2xiv8A5xrJ7RnGdxXB42uFEkYHJjszEhaJyKKt4WaLep"
   },
   {
     "token_name":"ROPE",
@@ -431,7 +390,7 @@
     "discord":"https://discord.com/invite/rope",
     "telegram":"https://t.me/ropesol",
     "circulating_supply":"6333333",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/4Sg1g8U2ZuGnGYxAhc6MmX9MX7yZbrrraPkCQ9MdCPtF"
   },
   {
     "token_name":"SolanaSail",
@@ -444,8 +403,8 @@
     "twitter":"https://twitter.com/SolanaSail",
     "discord":"https://discord.com/invite/solanasail",
     "telegram":"https://t.me/SolanaSail_Official",
-    "circulating_supply":"19837281",
-    "tradenow":"https://catodex.com"
+    "circulating_supply":"21000000",
+    "tradenow":"https://catodex.com/#/market/6hwK66FfUdyhncdQVxWFPRqY8y6usEvzekUaqtpKEKLr"
   },
   {
     "token_name":"Samoyedcoin",
@@ -459,7 +418,7 @@
     "discord":"https://discord.com/invite/Gc5uecWZR2",
     "telegram":"https://t.me/samoyedtokenchannel",
     "circulating_supply":"5800000000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/FR3SPJmgfRSKKQ2ysUZBu7vJLpzTixXnjzb84bY3Diif"
   },
   {
     "token_name":"Meow",
@@ -473,7 +432,7 @@
     "discord":"https://discord.com/invite/QaX5xRbYSj",
     "telegram":"https://twitter.com/solcat777",
     "circulating_supply":"374600122",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/FhiqrjSsQuEEe2FUMxzkwFadsAwA9ea9YMJLivEFKFbQ"
   },
   {
     "token_name":"SolDoge",
@@ -487,7 +446,7 @@
     "discord":"https://www.solanadogenfts.io/",
     "telegram":"https://www.solanadogenfts.io/",
     "circulating_supply":"8313099267",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/9aruV2p8cRWxybx6wMsJwPFqeN7eQVPR74RrxdM3DNdu"
   },
   {
     "token_name":"SolAPE",
@@ -501,7 +460,7 @@
     "discord":"https://discord.com/invite/amwXPwjknY",
     "telegram":"https://twitter.com/SolApeFinance",
     "circulating_supply":"298401000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/4zffJaPyeXZ2wr4whHgP39QyTfurqZ2BEd4M5W6SEuon"
   },
   {
     "token_name":"Tulip",
@@ -515,7 +474,7 @@
     "discord":"https://discord.com/invite/vCaEUjnc28",
     "telegram":"https://discord.com/invite/vCaEUjnc28",
     "circulating_supply":"1167452",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/8GufnKq7YnXKhnB3WNhgy5PzU9uvHbaaRrZWQK6ixPxW"
   },
   {
     "token_name":"xCOPE",
@@ -529,7 +488,7 @@
     "discord":"https://discord.com/invite/CfF3Grba6r",
     "telegram":"https://twitter.com/unlimitedcope",
     "circulating_supply":"19349315",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/7MpMwArporUHEGW7quUpkPZp5L5cHPs9eKUfKCdaPHq2"
   },
   {
     "token_name":"LIQ Protocol",
@@ -543,7 +502,7 @@
     "discord":"https://discord.com/invite/LIQ",
     "telegram":"https://discord.com/invite/LIQ",
     "circulating_supply":"9038461",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/FLKUQGh9VAG4otn4njLPUf5gaUPx5aAZ2Q6xWiD3hH5u"
   },
   {
     "token_name":"Crazy Ape Coin",
@@ -557,7 +516,7 @@
     "discord":"https://discord.com/invite/Uj2ZMAXfpC",
     "telegram":"https://discord.com/invite/Uj2ZMAXfpC",
     "circulating_supply":"1110748664",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX"
   },
   {
     "token_name":"Shoebill coin",
@@ -571,7 +530,7 @@
     "discord":"https://twitter.com/ShoebillCoin",
     "telegram":"https://twitter.com/ShoebillCoin",
     "circulating_supply":"470177020",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/9G2bAA5Uv8JyPZteuP73GJLUGg5CMbhMLCRSBUBLoXyt"
   },
   {
     "token_name":"ApeXit",
@@ -585,7 +544,7 @@
     "discord":"https://discord.com/invite/aASQy2dWsN",
     "telegram":"https://t.me/apexit_finance",
     "circulating_supply":"684063",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/GX26tyJyDxiFj5oaKvNB9npAHNgdoV9ZYHs5ijs5yG2U"
   },
   {
     "token_name":"GÜ",
@@ -599,7 +558,7 @@
     "discord":"https://discord.com/invite/uyMT9z6rZy",
     "telegram":"https://discord.com/invite/uyMT9z6rZy",
     "circulating_supply":"7720000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/2QXXnRnSBi4tviNUAsYv7tYDvYb17BQhK5MxR4sX5J3B"
   },
   {
     "token_name":"Mango",
@@ -612,7 +571,7 @@
     "discord":"https://discord.com/invite/2uwjsBc5yw",
     "telegram":"https://discord.com/invite/2uwjsBc5yw",
     "circulating_supply":"255599999",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/3d4rzwpy9iGdCZvgxcu7B1YocYffVLsQXPXkBZKt2zLc"
   },
   {
     "token_name":"ORCA",
@@ -626,7 +585,7 @@
     "discord":"https://discord.com/invite/nSwGWn5KSG",
     "telegram":"https://t.me/orca_so",
     "circulating_supply":"5849960",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/8N1KkhaCYDpj3awD58d85n973EwkpeYnRp84y1kdZpMX"
   },
   {
     "token_name":"Saber",
@@ -640,7 +599,7 @@
     "discord":"https://discord.com/invite/9buKA9E5Nm",
     "telegram":"https://discord.com/invite/9buKA9E5Nm",
     "circulating_supply":"100000000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs"
   },
   {
     "token_name":"SAIL Goverence Token",
@@ -653,8 +612,8 @@
     "twitter":"https://twitter.com/SolanaSail",
     "discord":"https://discord.com/invite/solanasail",
     "telegram":"https://t.me/SolanaSail_Official",
-    "circulating_supply":"3970000",
-    "tradenow":"https://catodex.com"
+    "circulating_supply":"3700000",
+    "tradenow":"https://catodex.com/#/market/2zkPyHgQkKG6qJED6MTbjfCfUbZeT9VFwLm1Ld9nKxRp"
   },
   {
     "token_name":"Only1",
@@ -668,7 +627,7 @@
     "discord":"https://discord.com/invite/sUu7KZwNCB",
     "telegram":"https://t.me/only1nft",
     "circulating_supply":"37035000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/3WptgZZu34aiDrLMUiPntTYZGNZ72yT1yxHYxSdbTArX"
   },
   {
     "token_name":"Step Finance",
@@ -682,7 +641,7 @@
     "discord":"https://discord.com/invite/k5gMJUAEJe",
     "telegram":"https://discord.com/invite/k5gMJUAEJe",
     "circulating_supply":"93260869",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/97qCB4cAVSTthvJu3eNoEx6AY6DLuRDtCoPm5Tdyg77S"
   },
   {
     "token_name":"Cropper Finance",
@@ -695,8 +654,8 @@
     "twitter":"https://twitter.com/CropperFinance",
     "discord":"https://discord.com/invite/CropperFinance",
     "telegram":"https://t.me/CropperFinance",
-    "circulating_supply":"65105457",
-    "tradenow":"https://catodex.com"
+    "circulating_supply":"16500000",
+    "tradenow":"https://catodex.com/#/market/8nXjHLfiR6wB22J7VBGeKjsRiSa54Eu7cgL17GE4kJUw"
   },
   {
     "token_name":"Solrise Finance",
@@ -710,7 +669,7 @@
     "discord":"https://discord.com/invite/xNbGgMUJfU",
     "telegram":"https://t.me/solrisefinance",
     "circulating_supply":"",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/2Gx3UfV831BAh8uQv1FKSPKS9yajfeeD8GJ4ZNb2o2YP"
   },
   {
     "token_name":"Moonlana",
@@ -724,7 +683,7 @@
     "discord":"https://discord.com/invite/moonlana",
     "telegram":"https://t.me/moonlana",
     "circulating_supply":"2443369009",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/HSpeWWRqBJ4HH2FPyfDhoN1AUq3gYoDenQGZASSqzYW1"
   },
   {
     "token_name":"USDC",
@@ -766,7 +725,7 @@
     "discord":"",
     "telegram":"",
     "circulating_supply":"",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA"
   },
     {
     "token_name":"SUNNY",
@@ -780,7 +739,7 @@
     "discord":"https://discord.com/invite/dvXuvN9KeP",
     "telegram":"https://discord.com/invite/dvXuvN9KeP",
     "circulating_supply":"250000000",
-    "tradenow":"https://catodex.com"
+    "tradenow":"https://catodex.com/#/market/Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc"
   }
   
 ]
