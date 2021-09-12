@@ -42,20 +42,7 @@
     "tradenow":"https://catodex.com/#/market/9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT"
   },
 
-   {
-    "token_name":"CHEEMS",
-    "token_pair":"CHEEMS/USDC",
-    "token_description":"Doge's unloved brother on Solana",
-    "market_address":"5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut",
-    "token_address":"3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc",
-    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/CHEEMS.png",
-    "wesbite":"https://cheems.co/",
-    "twitter":"https://twitter.com/theCheemsToken",
-    "discord":"https://discord.com/invite/zmxvx3JQfr",
-    "telegram":"https://t.me/CheemsOfficial",
-    "circulating_supply":"2449645457",
-    "tradenow":"https://catodex.com/#/market/5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut"
-  },
+   
    {
     "token_name":"COPE",
     "token_pair":"COPE/USDC",
@@ -69,6 +56,20 @@
     "telegram":"https://twitter.com/unlimitedcope",
     "circulating_supply":"19303135",
     "tradenow":"https://catodex.com/#/market/6fc7v3PmjZG9Lk2XTot6BywGyYLkBQuzuFKd4FpCsPxk"
+  },
+  {
+    "token_name":"LIQ Protocol",
+    "token_pair":"LIQ/USDC",
+    "token_description":"On-chain liquidation engine",
+    "market_address":"FLKUQGh9VAG4otn4njLPUf5gaUPx5aAZ2Q6xWiD3hH5u",
+    "token_address":"4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/LIQ.png",
+    "wesbite":"https://liqsolana.com/",
+    "twitter":"https://twitter.com/LiqProtocol",
+    "discord":"https://discord.com/invite/LIQ",
+    "telegram":"https://discord.com/invite/LIQ",
+    "circulating_supply":"9038461",
+    "tradenow":"https://catodex.com/#/market/FLKUQGh9VAG4otn4njLPUf5gaUPx5aAZ2Q6xWiD3hH5u"
   },
   {
     "token_name":"CREAM",
@@ -491,20 +492,6 @@
     "tradenow":"https://catodex.com/#/market/7MpMwArporUHEGW7quUpkPZp5L5cHPs9eKUfKCdaPHq2"
   },
   {
-    "token_name":"LIQ Protocol",
-    "token_pair":"LIQ/USDC",
-    "token_description":"On-chain liquidation engine",
-    "market_address":"FLKUQGh9VAG4otn4njLPUf5gaUPx5aAZ2Q6xWiD3hH5u",
-    "token_address":"4wjPQJ6PrkC4dHhYghwJzGBVP78DkBzA2U3kHoFNBuhj",
-    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/LIQ.png",
-    "wesbite":"https://liqsolana.com/",
-    "twitter":"https://twitter.com/LiqProtocol",
-    "discord":"https://discord.com/invite/LIQ",
-    "telegram":"https://discord.com/invite/LIQ",
-    "circulating_supply":"9038461",
-    "tradenow":"https://catodex.com/#/market/FLKUQGh9VAG4otn4njLPUf5gaUPx5aAZ2Q6xWiD3hH5u"
-  },
-  {
     "token_name":"Crazy Ape Coin",
     "token_pair":"CAPE/USDC",
     "token_description":"Meme token",
@@ -740,6 +727,20 @@
     "telegram":"https://discord.com/invite/dvXuvN9KeP",
     "circulating_supply":"250000000",
     "tradenow":"https://catodex.com/#/market/Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc"
+  },
+  {
+    "token_name":"CHEEMS",
+    "token_pair":"CHEEMS/USDC",
+    "token_description":"Doge's unloved brother on Solana",
+    "market_address":"5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut",
+    "token_address":"3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/CHEEMS.png",
+    "wesbite":"https://cheems.co/",
+    "twitter":"https://twitter.com/theCheemsToken",
+    "discord":"https://discord.com/invite/zmxvx3JQfr",
+    "telegram":"https://t.me/CheemsOfficial",
+    "circulating_supply":"2449645457",
+    "tradenow":"https://catodex.com/#/market/5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut"
   }
   
 ]
