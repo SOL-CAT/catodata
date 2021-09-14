@@ -1,5 +1,19 @@
 [
   {
+    "token_name":"SOLBERRY",
+    "token_pair":"SOLBERRY/USDC",
+    "token_description":"Berry Sol",
+    "market_address":"HchZzqewgC4pfsJU9uxFsrP4sLDqLsDntYRzE5RgrBak",
+    "token_address":"EWS2ATMt5fQk89NWLJYNRmGaNoji8MhFZkUB4DiWCCcz",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/SOLBERRY.png",
+    "wesbite":"https://www.solberry.tech/",
+    "twitter":"https://twitter.com/BerrySol",
+    "discord":"https://t.me/SolBerry_tg",
+    "telegram":"https://t.me/SolBerry_tg",
+    "circulating_supply":"20000000",
+    "tradenow":"https://catodex.com/#/market/HchZzqewgC4pfsJU9uxFsrP4sLDqLsDntYRzE5RgrBak"
+  },
+  {
     "token_name":"BOP",
     "token_pair":"BOP/USDC",
     "token_description":"Decentralized VPN on Solana",
