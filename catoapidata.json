@@ -1,5 +1,19 @@
 [
   {
+    "token_name":"CATO",
+    "token_pair":"CATO/USDC",
+    "token_description":"CATO Finance",
+    "market_address":"9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB",
+    "token_address":"5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/CATO.png",
+    "wesbite":"https://official.catodex.com/",
+    "twitter":"https://twitter.com/SolanaCATO",
+    "discord":"https://discord.com/invite/7yUx6jXZtS",
+    "telegram":"https://t.me/SolanaCATO",
+    "circulating_supply":"168200000",
+    "tradenow":"https://catodex.com/#/market/9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB"
+  },
+  {
     "token_name":"DATE",
     "token_pair":"DATE/USDC",
     "token_description":"Make love happen on Blockchain",
@@ -68,20 +82,6 @@
     "telegram":"https://t.me/tunnelgram",
     "circulating_supply":"137500000",
     "tradenow":"https://catodex.com/#/market/7MmPwD1K56DthW14P1PnWZ4zPCbPWemGs3YggcT1KzsM"
-  },
-   {
-    "token_name":"CATO",
-    "token_pair":"CATO/USDC",
-    "token_description":"CATO Finance",
-    "market_address":"9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB",
-    "token_address":"5p2zjqCd1WJzAVgcEnjhb9zWDU7b9XVhFhx4usiyN7jB",
-    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/CATO.png",
-    "wesbite":"https://official.catodex.com/",
-    "twitter":"https://twitter.com/SolanaCATO",
-    "discord":"https://discord.com/invite/7yUx6jXZtS",
-    "telegram":"https://t.me/SolanaCATO",
-    "circulating_supply":"168200000",
-    "tradenow":"https://catodex.com/#/market/9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB"
   },
   {
     "token_name":"Wrapped SOL",
