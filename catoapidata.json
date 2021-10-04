@@ -1,5 +1,19 @@
 [
   {
+    "token_name":"SOLMO",
+    "token_pair":"SOLMO/USDC",
+    "token_description":"Solmoverse",
+    "market_address":"FZAn2H4kzz4bFuez3Hqgg2qz1sHRQ5mPZkowiWMk95sX",
+    "token_address":"Gro98oTmXxCVX8HKr3q2tMnP5ztoC77q6KehFDnAB983",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/SOLMO.png",
+    "wesbite":"https://official.catodex.com/",
+    "twitter":"https://twitter.com/solmoonfinance",
+    "discord":"http://discord.gg/solmoon",
+    "telegram":"http://discord.gg/solmoon",
+    "circulating_supply":"1100000000",
+    "tradenow":"https://catodex.com/#/market/FZAn2H4kzz4bFuez3Hqgg2qz1sHRQ5mPZkowiWMk95sX"
+  },
+  {
     "token_name":"CATO",
     "token_pair":"CATO/USDC",
     "token_description":"CATO Finance",
@@ -68,6 +82,20 @@
     "telegram":"https://t.me/SolBerry_tg",
     "circulating_supply":"20000000",
     "tradenow":"https://catodex.com/#/market/HchZzqewgC4pfsJU9uxFsrP4sLDqLsDntYRzE5RgrBak"
+  },
+  {
+    "token_name":"HAMS",
+    "token_pair":"HAMS/USDC",
+    "token_description":"Space Hamster",
+    "market_address":"5j6hdwx4eW3QBYZtRjKiUj7aDA1dxDpveSHBznwq7kUv",
+    "token_address":"A2T2jDe2bxyEHkKtS8AtrTRmJ9VZRwyY8Kr7oQ8xNyfb",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/HAMS.png",
+    "wesbite":"https://solhamster.space/",
+    "twitter":"https://twitter.com/sol_hamster",
+    "discord":"https://t.me/SolHamster",
+    "telegram":"https://t.me/SolHamster",
+    "circulating_supply":"150000000",
+    "tradenow":"https://catodex.com/#/market/FZAn2H4kzz4bFuez3Hqgg2qz1sHRQ5mPZkowiWMk95sX"
   },
   {
     "token_name":"BOP",
