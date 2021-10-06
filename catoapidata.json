@@ -124,9 +124,7 @@
     "telegram":"https://t.me/solana",
     "circulating_supply":"292433288",
     "tradenow":"https://catodex.com/#/market/9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT"
-  },
-
-   
+  },   
    {
     "token_name":"COPE",
     "token_pair":"COPE/USDC",
@@ -140,6 +138,20 @@
     "telegram":"https://twitter.com/unlimitedcope",
     "circulating_supply":"19303135",
     "tradenow":"https://catodex.com/#/market/6fc7v3PmjZG9Lk2XTot6BywGyYLkBQuzuFKd4FpCsPxk"
+  },
+  {
+    "token_name":"MIM",
+    "token_pair":"MIM/USDC",
+    "token_description":"MIM Swarm",
+    "market_address":"8GaWdgZ5yPxQpxGii2HCWKQj1JgabH9SGCHx2fFwZK6t",
+    "token_address":"4dydh8EGNEdTz6grqnGBxpduRg55eLnwNZXoNZJetadu",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/MIM.png",
+    "wesbite":"https://www.mim-swarm.com/",
+    "twitter":"https://twitter.com/mimswarm",
+    "discord":"https://discord.gg/8mHbKWczpB",
+    "telegram":"https://t.me/mimswarm",
+    "circulating_supply":"2010000000",
+    "tradenow":"https://catodex.com/#/market/8GaWdgZ5yPxQpxGii2HCWKQj1JgabH9SGCHx2fFwZK6t"
   },
   {
     "token_name":"LIQ Protocol",
