@@ -182,6 +182,20 @@
     "tradenow":"https://catodex.com/#/market/7nZP6feE94eAz9jmfakNJWPwEKaeezuKKC5D1vrnqyo2"
   },
   {
+    "token_name":"CHIH",
+    "token_pair":"CHIH/USDC",
+    "token_description":"Chihuahua Sol",
+    "market_address":"prLiL5ZsdKxDWT6doGZ4sEYHPoFxPBEGU5vJXffzShe",
+    "token_address":"6xtyNYX6Rf4Kp3629X11m1jqUmkV89mf9xQakUtUQfHq",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/CHIH.png",
+    "wesbite":"https://chihuahuasol.com/",
+    "twitter":"https://twitter.com/ChihuahuaSol",
+    "discord":"https://discord.gg/cQMHepBqmc",
+    "telegram":"https://discord.gg/cQMHepBqmc",
+    "circulating_supply":"",
+    "tradenow":"https://catodex.com/#/market/prLiL5ZsdKxDWT6doGZ4sEYHPoFxPBEGU5vJXffzShe"
+  },
+  {
     "token_name":"FAB",
     "token_pair":"FAB/USDC",
     "token_description":"Synthetic Assets",
