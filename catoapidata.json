@@ -1,12 +1,26 @@
 [
   {
+    "token_name":"ALM",
+    "token_pair":"ALM/USDC",
+    "token_description":"Yield Farming",
+    "market_address":"DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W",
+    "token_address":"ALMmmmbt5KNrPPUBFE4dAKUKSPWTop5s3kUGCdF69gmw",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/ALM.png",
+    "wesbite":"https://almond.so/",
+    "twitter":"https://twitter.com/almond_so",
+    "discord":"https://discord.gg/Cj78CfDcSu",
+    "telegram":"https://discord.gg/Cj78CfDcSu",
+    "circulating_supply":"117207821",
+    "tradenow":"https://catodex.com/#/market/DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W"
+  },
+  {
     "token_name":"SOLMO",
     "token_pair":"SOLMO/USDC",
     "token_description":"Solmoverse",
     "market_address":"FZAn2H4kzz4bFuez3Hqgg2qz1sHRQ5mPZkowiWMk95sX",
     "token_address":"Gro98oTmXxCVX8HKr3q2tMnP5ztoC77q6KehFDnAB983",
     "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/SOLMO.png",
-    "wesbite":"https://official.catodex.com/",
+    "wesbite":"https://twitter.com/solmoonfinance",
     "twitter":"https://twitter.com/solmoonfinance",
     "discord":"http://discord.gg/solmoon",
     "telegram":"http://discord.gg/solmoon",
