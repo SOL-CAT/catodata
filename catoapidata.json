@@ -1,5 +1,19 @@
 [
   {
+    "token_name":"SPWN",
+    "token_pair":"SPWN/USDC",
+    "token_description":"BitspawnGG",
+    "market_address":"CMxieHNoWYgF5c6wS1yz1QYhxpxZV7MbDMp8c7EpiRGj",
+    "token_address":"5U9QqCPhqXAJcEv9uyzFJd5zhN93vuPk1aNNkXnUfPnt",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/SPWN.png",
+    "wesbite":"https://bitspawn.io/",
+    "twitter":"https://twitter.com/BitspawnGG",
+    "discord":"https://discord.com/invite/bitspawn",
+    "telegram":"https://t.me/bitspawnprotocol",
+    "circulating_supply":"117207821",
+    "tradenow":"https://catodex.com/#/market/41UQxR6MBKfkXEpeiXvouagiAZWZsEbcrGyNHHDa4LnK"
+  },
+  {
     "token_name":"ALM",
     "token_pair":"ALM/USDC",
     "token_description":"Yield Farming",
