@@ -1,5 +1,33 @@
 [
   {
+    "token_name":"IN",
+    "token_pair":"IN/USDC",
+    "token_description":"Invictus Dao",
+    "market_address":"49vwM54DX3JPXpey2daePZPmimxA4CrkXLZ6E1fGxx2Z",
+    "token_address":"inL8PMVd6iiW3RCBJnr5AsrRN6nqr4BTrcNuQWQSkvY",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/IN.png",
+    "wesbite":"https://app.invictusdao.fi",
+    "twitter":"https://twitter.com/InvictusDAO",
+    "discord":"discord.gg/invictusdao",
+    "telegram":"discord.gg/invictusdao",
+    "circulating_supply":"151133",
+    "tradenow":"https://catodex.com/#/market/49vwM54DX3JPXpey2daePZPmimxA4CrkXLZ6E1fGxx2Z"
+  },
+  {
+    "token_name":"CCAT",
+    "token_pair":"CCAT/USDC",
+    "token_description":"CCAT",
+    "market_address":"BLVk4aeGVEfeZgNKEQECuuwhKx4eGaZgnWrnjazDSHqn",
+    "token_address":"95GBBtPvFotNSLDuM4DYTukZhxptRbJjW7dMH45WMS2N",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/CCAT.png",
+    "wesbite":"https://twitter.com/CuteBabyCatCoin",
+    "twitter":"https://twitter.com/CuteBabyCatCoin",
+    "discord":"https://discord.com/invite/VS9cRtTZrV",
+    "telegram":"https://discord.com/invite/VS9cRtTZrV",
+    "circulating_supply":"7000000000",
+    "tradenow":"https://catodex.com/#/market/BLVk4aeGVEfeZgNKEQECuuwhKx4eGaZgnWrnjazDSHqn"
+  },
+  {
     "token_name":"BMBO",
     "token_pair":"BMBO/USDC",
     "token_description":"Bamboo",
@@ -991,6 +1019,20 @@
     "telegram":"https://t.me/CheemsOfficial",
     "circulating_supply":"2449645457",
     "tradenow":"https://catodex.com/#/market/5WVBCaUPZF4HP3io9Z56N71cPMJt8qh3c4ZwSjRDeuut"
+  },
+  {
+    "token_name":"BSAMO",
+    "token_pair":"BSAMO/USDC",
+    "token_description":"Buff SAMO",
+    "market_address":"AohqcP9t8y9ttheks7PWWf41ny3Zahy3WLF7mNLBuUHJ",
+    "token_address":"2XSuy8RSESbtYRBbVHxGWuoikn3B6iXKVKzN4i3owTCf",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/BSAMO.png",
+    "wesbite":"https://www.buffsamo.tech/",
+    "twitter":"https://twitter.com/BuffSamo",
+    "discord":"https://discord.gg/buffsamo",
+    "telegram":"https://discord.gg/buffsamo",
+    "circulating_supply":"18000000000",
+    "tradenow":"https://catodex.com/#/market/AohqcP9t8y9ttheks7PWWf41ny3Zahy3WLF7mNLBuUHJ"
   }
   
 ]
