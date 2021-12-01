@@ -1,5 +1,33 @@
 [
   {
+    "token_name":"PIXL",
+    "token_pair":"PIXL/USDC",
+    "token_description":"Pixels",
+    "market_address":"ESd3PskTov69tkW5MmfdV8K7hXR35EXRYorWMNn61dD3",
+    "token_address":"5L2YboFbHAUpBDDJjvDB5M6pu9CW2FRjyDB2asZyvjtE",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/PIXL.png",
+    "wesbite":"https://www.pixels.so",
+    "twitter":"https://twitter.com/pixels_so",
+    "discord":"https://discord.gg/rMdRdhTQ",
+    "telegram":"https://t.me/pixels_official",
+    "circulating_supply":"16777216",
+    "tradenow":"https://catodex.com/#/market/ESd3PskTov69tkW5MmfdV8K7hXR35EXRYorWMNn61dD3"
+  },
+  {
+    "token_name":"SWOLE",
+    "token_pair":"SWOLE/USDC",
+    "token_description":"Swole Doge",
+    "market_address":"3SGeuz8EXsyFo4HHWXQsoo8r4r5RdZkt7TuuTZiVbKc8",
+    "token_address":"4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z",
+    "token_logo":"https://raw.githubusercontent.com/SOL-CAT/catodata/master/logos/SWOLE.png",
+    "wesbite":"https://swoledogecoin.org/",
+    "twitter":"https://twitter.com/SwoleDoge",
+    "discord":"https://discord.com/invite/HfdHnhQkpB",
+    "telegram":"https://t.me/swoledogeonsolana",
+    "circulating_supply":"9000000000",
+    "tradenow":"https://catodex.com/#/market/3SGeuz8EXsyFo4HHWXQsoo8r4r5RdZkt7TuuTZiVbKc8"
+  },
+  {
     "token_name":"IN",
     "token_pair":"IN/USDC",
     "token_description":"Invictus Dao",
